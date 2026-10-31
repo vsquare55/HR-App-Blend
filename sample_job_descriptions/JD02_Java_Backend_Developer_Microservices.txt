@@ -1,0 +1,25 @@
+Job Title: Java Backend Developer - Microservices
+Department: Engineering
+Location: Pune / Hyderabad
+Experience: 3-7 years
+
+About the role
+Join the payments engineering group building high-throughput Java services.
+
+Responsibilities
+- Develop Spring Boot microservices
+- Integrate services using Kafka
+- Write unit tests with JUnit
+- Tune performance and fix production issues
+
+Requirements
+- Java and Spring Boot
+- Microservices and REST APIs
+- Hibernate and MySQL
+- Kafka or similar messaging
+
+Nice to have
+- Docker and Kubernetes
+- AWS
+- Jenkins
+- Redis

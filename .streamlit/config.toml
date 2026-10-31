@@ -1,0 +1,22 @@
+[theme]
+base = "light"
+primaryColor = "#2b6cb0"
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#f3f6fb"
+textColor = "#1a202c"
+borderColor = "#d9e2ef"
+font = "sans-serif"
+baseRadius = "10px"
+showWidgetBorder = true
+
+[server]
+# Only this computer can open the app. Change to "0.0.0.0" only when you deliberately want
+# colleagues on the same network to use it (there is no login screen yet).
+address = "localhost"
+
+[browser]
+# Resumes are personal data: don't send anything (not even anonymous usage stats) out of this machine.
+gatherUsageStats = false
+
+[client]
+toolbarMode = "minimal"

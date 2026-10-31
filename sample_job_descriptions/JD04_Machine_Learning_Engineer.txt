@@ -1,0 +1,25 @@
+Job Title: Machine Learning Engineer
+Department: Data Science
+Location: Bangalore / Hyderabad
+Experience: 3-6 years
+
+About the role
+Help us ship ML models that personalise search and recommendations for millions of users.
+
+Responsibilities
+- Train and evaluate NLP and recommendation models
+- Deploy models with MLOps best practice
+- Monitor drift and performance
+- Partner with product teams
+
+Requirements
+- Python and SQL
+- Machine Learning with PyTorch or TensorFlow
+- NLP
+- MLOps and model deployment
+
+Nice to have
+- AWS
+- Spark
+- Docker
+- Computer Vision

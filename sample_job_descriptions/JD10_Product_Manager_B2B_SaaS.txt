@@ -1,0 +1,25 @@
+Job Title: Product Manager - B2B SaaS
+Department: Product
+Location: Bangalore / Remote
+Experience: 5-9 years
+
+About the role
+Lead the roadmap for a core product used by thousands of businesses.
+
+Responsibilities
+- Own the product roadmap and OKRs
+- Write user stories and prioritise the backlog
+- Run experiments and analyse product data
+- Align stakeholders and drive go-to-market
+
+Requirements
+- Product Management and roadmapping
+- Agile, Jira and user stories
+- SQL and product analytics
+- A/B testing
+- Stakeholder management
+
+Nice to have
+- Go-to-market
+- Market research
+- Figma

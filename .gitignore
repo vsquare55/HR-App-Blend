@@ -1,0 +1,24 @@
+# Private Python (386 MB). Recreate it with Build_Portable_Runtime.bat
+runtime/
+
+# Live data: the database, caches and the Excel the app writes next to the resumes
+data/hr.db
+data/hr.db-wal
+data/hr.db-shm
+data/previews/
+resumes/Candidates_Database.xlsx
+
+# Real resumes are personal data and must never be pushed. Only the 12 fake sample PDFs are tracked.
+resumes/*
+!resumes/C0[01][0-9]_*.pdf
+!resumes/.gitkeep
+
+# Local tooling and build output
+__pycache__/
+*.pyc
+.claude/
+.streamlit/secrets.toml
+*.zip
+~$*
+*.tmp.xlsx
+launcher.log

@@ -1,0 +1,37 @@
+ARJUN TIWARI
+tiwari.arjun@gmail.com
++91-95318-40679
+Nagpur, Maharashtra
+
+PROFILE
+Senior Data Analyst with 6+ years of experience in turning raw data into dashboards and insights. Skilled in A/B Testing, Snowflake and Python. Comfortable working with distributed teams.
+
+CORE COMPETENCIES
+Analysis: A/B Testing, MIS Reporting, Pandas, Tableau
+BI tools: Snowflake, Data Modeling, SQL
+Other: Python, Statistics, Data Visualization
+
+EMPLOYMENT HISTORY
+Senior Data Analyst
+Walmart Global Tech | 2024 – Present
+- Automated weekly reports with Pandas, saving 3 hours a week.
+- Ran A/B test analyses that guided a 85% improvement in conversion.
+- Wrote complex SQL to analyse 33 million rows and surface revenue leaks.
+- Cleaned and modelled data from 2 sources into a reporting warehouse.
+
+Data Analyst
+Gramener | 2022 – 2024
+- Built MIS Reporting and A/B Testing dashboards used by 30 managers across the business.
+- Ran A/B test analyses that guided a 82% improvement in conversion.
+
+Junior Data Analyst
+Genpact | 2020 – 2022
+- Built Snowflake and Data Visualization dashboards used by 50 managers across the business.
+- Defined KPIs with stakeholders and tracked them in a single source of truth.
+
+EDUCATION
+B.Com - IIT Madras (2017)
+
+CERTIFICATIONS
+Google Data Analytics Certificate
+Microsoft Power BI Data Analyst (PL-300)

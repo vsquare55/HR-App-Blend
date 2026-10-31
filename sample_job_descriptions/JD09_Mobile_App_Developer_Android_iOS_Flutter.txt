@@ -1,0 +1,23 @@
+Job Title: Mobile App Developer (Android / iOS / Flutter)
+Department: Engineering
+Location: Bangalore / Mumbai
+Experience: 2-5 years
+
+About the role
+Build the mobile apps our customers use every day.
+
+Responsibilities
+- Develop Android and iOS features
+- Maintain a Flutter codebase
+- Improve app performance and stability
+- Release to the Play Store and App Store
+
+Requirements
+- Android with Kotlin
+- iOS with Swift
+- Flutter or React Native
+- Firebase and REST APIs
+
+Nice to have
+- CI/CD
+- GraphQL

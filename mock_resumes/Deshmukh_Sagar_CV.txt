@@ -1,0 +1,30 @@
+Sagar Deshmukh
+s.deshmukh@yahoo.in
++91 88442 45140
+Indore, Madhya Pradesh
+
+SUMMARY
+Python Developer with 4+ years of experience in designing microservices on AWS. Skilled in REST APIs, Docker and Flask. Focused on quality and delivery.
+
+SKILLS & TOOLS
+REST APIs • Docker • Flask • Django • Redis • Pytest • Python • Kubernetes • FastAPI • AWS • Microservices • PostgreSQL • RabbitMQ
+
+PROFESSIONAL EXPERIENCE
+Python Developer
+Juspay | 2024 – Present
+- Wrote unit and integration tests, raising coverage from 30% to 71%.
+- Mentored 5 junior engineers and led weekly code reviews.
+- Reduced API response time by 69% by tuning Microservices queries and adding caching.
+
+Junior Python Developer
+Tech Mahindra | 2022 – 2024
+- Reduced API response time by 56% by tuning Kubernetes queries and adding caching.
+- Migrated a monolith to microservices and cut deployment time from hours to 6 minutes.
+- Set up CI/CD pipelines that shipped 7 releases a month with zero downtime.
+
+QUALIFICATIONS
+B.E. Information Technology - VIT Vellore (2017)
+
+CERTIFICATIONS
+Python Institute PCAP
+AWS Certified Developer - Associate

@@ -1,0 +1,27 @@
+Job Title: DevOps / SRE Engineer
+Department: Infrastructure
+Location: Hyderabad / Remote
+Experience: 4-8 years
+
+About the role
+Keep our production platform fast, secure and cost-efficient.
+
+Responsibilities
+- Operate Kubernetes clusters
+- Provision infrastructure with Terraform
+- Build CI/CD pipelines
+- Lead incident response and monitoring
+
+Requirements
+- Kubernetes and Docker
+- Terraform
+- AWS
+- Jenkins and CI/CD
+- Prometheus and Grafana
+- Linux
+
+Nice to have
+- Ansible
+- Helm
+- ArgoCD
+- Python

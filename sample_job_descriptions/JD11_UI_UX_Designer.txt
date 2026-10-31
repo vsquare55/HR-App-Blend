@@ -1,0 +1,25 @@
+Job Title: UI/UX Designer
+Department: Design
+Location: Bangalore / Hybrid
+Experience: 3-6 years
+
+About the role
+Shape simple, beautiful experiences for our consumer and business apps.
+
+Responsibilities
+- Design flows and prototypes in Figma
+- Maintain the design system
+- Run user research and usability tests
+- Partner with engineers on accessible UI
+
+Requirements
+- Figma
+- Prototyping and wireframing
+- Design systems
+- User research and usability testing
+- Accessibility
+
+Nice to have
+- Adobe XD
+- Design thinking
+- HTML/CSS

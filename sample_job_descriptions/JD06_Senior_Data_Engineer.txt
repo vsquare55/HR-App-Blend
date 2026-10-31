@@ -1,0 +1,25 @@
+Job Title: Senior Data Engineer
+Department: Data Platform
+Location: Bangalore / Remote
+Experience: 5-9 years
+
+About the role
+Own the data platform that serves analytics and ML across the company.
+
+Responsibilities
+- Design batch and streaming pipelines
+- Model data in the warehouse
+- Orchestrate jobs in Airflow
+- Improve data quality and cost
+
+Requirements
+- Python and SQL
+- Spark and Airflow
+- Kafka
+- Snowflake or Redshift on AWS
+- ETL and data modeling
+
+Nice to have
+- Databricks
+- dbt
+- Terraform

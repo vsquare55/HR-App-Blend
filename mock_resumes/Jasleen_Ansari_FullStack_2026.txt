@@ -1,0 +1,27 @@
+Jasleen Ansari
+Email: jasleenansari32@gmail.com   Phone: +91-77391-94586   Location: Chennai, Tamil Nadu
+
+Professional Profile
+Senior Full Stack Engineer with 5+ years of experience in modern JavaScript web applications. Skilled in Storybook, Redux and Jest. Comfortable working with distributed teams.
+
+CORE COMPETENCIES
+Storybook • Redux • Jest • PostgreSQL • React • MongoDB • Node.js • HTML/CSS • REST APIs • TypeScript • Git
+
+EXPERIENCE
+Senior Full Stack Engineer
+Accenture | September 2024 to Present
+- Introduced TypeScript and Jest tests, reducing production bugs by 58%.
+- Created a reusable component library adopted by 7 product teams.
+
+Full Stack Developer
+Myntra | October 2021 to September 2024
+- Introduced TypeScript and Jest tests, reducing production bugs by 89%.
+- Built responsive HTML/CSS interfaces used by 29k monthly users.
+- Integrated payment and authentication flows with third-party providers.
+- Developed Git APIs backed by TypeScript and cut page load time by 80%.
+
+EDUCATION
+BCA - VIT Vellore (2016)
+
+CERTIFICATIONS
+Meta Front-End Developer Certificate

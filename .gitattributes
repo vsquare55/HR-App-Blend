@@ -1,0 +1,15 @@
+# Never rewrite line endings inside binary files (this would corrupt PDFs and Office files)
+*.pdf  binary
+*.docx binary
+*.xlsx binary
+*.png  binary
+*.jpg  binary
+
+# Windows batch files must keep CRLF; scripts and docs are plain text
+*.bat  text eol=crlf
+*.ps1  text eol=crlf
+*.py   text eol=lf
+*.md   text eol=lf
+*.json text eol=lf
+*.toml text eol=lf
+*.txt  text eol=lf

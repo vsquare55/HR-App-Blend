@@ -1,0 +1,29 @@
+Tushar Nair
+t.nair@yahoo.in | +91 97223 38651 | Bangalore, Karnataka
+
+PROFESSIONAL SUMMARY
+Senior Data Engineer with 6+ years of experience in building reliable batch and streaming data pipelines. Skilled in Airflow, dbt and Kafka. Known for clear communication and ownership.
+
+KEY SKILLS
+Airflow  dbt  Kafka  ETL  AWS  Snowflake  Terraform  Redshift  Data Modeling  SQL  Databricks  Spark  Python
+
+EXPERIENCE
+Senior Data Engineer at Jio
+10/2024 – Current
+- Streamed events through Kafka into the analytics layer in near real time.
+- Built data quality checks that caught issues before they reached dashboards.
+
+Data Engineer at Mu Sigma
+11/2022 – 09/2024
+- Built data quality checks that caught issues before they reached dashboards.
+- Designed Spark and SQL pipelines processing 6 TB of data a day.
+- Migrated the warehouse to AWS, cutting query cost by 52%.
+
+Associate Data Engineer at LatentView
+08/2020 – 10/2022
+- Streamed events through Kafka into the analytics layer in near real time.
+- Migrated the warehouse to dbt, cutting query cost by 63%.
+- Modelled star schemas that reduced report build time from hours to minutes.
+
+ACADEMIC BACKGROUND
+M.Tech Data Engineering - Amity University (2016)

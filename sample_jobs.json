@@ -1,0 +1,114 @@
+[
+  {
+    "title": "Senior Python Backend Engineer",
+    "department": "Engineering",
+    "location": "Bangalore / Remote",
+    "experience_required": "4-8 years",
+    "description": "Job Title: Senior Python Backend Engineer\nDepartment: Engineering\nLocation: Bangalore / Remote\nExperience: 4-8 years\n\nAbout the role\nOur platform team builds the APIs that power millions of daily orders. You will own services end to end.\n\nResponsibilities\n- Design and build scalable REST APIs and microservices\n- Own database design and query performance\n- Review code and mentor junior engineers\n- Improve reliability, testing and CI/CD\n\nRequirements\n- Python with Django, Flask or FastAPI\n- REST APIs and microservices architecture\n- PostgreSQL or MySQL\n- AWS and Docker\n\nNice to have\n- Kubernetes\n- Kafka\n- CI/CD pipelines\n- Redis\n"
+  },
+  {
+    "title": "Java Backend Developer - Microservices",
+    "department": "Engineering",
+    "location": "Pune / Hyderabad",
+    "experience_required": "3-7 years",
+    "description": "Job Title: Java Backend Developer - Microservices\nDepartment: Engineering\nLocation: Pune / Hyderabad\nExperience: 3-7 years\n\nAbout the role\nJoin the payments engineering group building high-throughput Java services.\n\nResponsibilities\n- Develop Spring Boot microservices\n- Integrate services using Kafka\n- Write unit tests with JUnit\n- Tune performance and fix production issues\n\nRequirements\n- Java and Spring Boot\n- Microservices and REST APIs\n- Hibernate and MySQL\n- Kafka or similar messaging\n\nNice to have\n- Docker and Kubernetes\n- AWS\n- Jenkins\n- Redis\n"
+  },
+  {
+    "title": "Full Stack Developer (React + Node)",
+    "department": "Engineering",
+    "location": "Bangalore / Hybrid",
+    "experience_required": "3-6 years",
+    "description": "Job Title: Full Stack Developer (React + Node)\nDepartment: Engineering\nLocation: Bangalore / Hybrid\nExperience: 3-6 years\n\nAbout the role\nBuild customer-facing web products used by hundreds of thousands of users.\n\nResponsibilities\n- Build responsive React interfaces\n- Develop Node.js APIs backed by MongoDB\n- Write Jest tests\n- Work closely with design and product\n\nRequirements\n- React and TypeScript\n- Node.js and Express\n- MongoDB\n- REST APIs and Git\n\nNice to have\n- Next.js\n- GraphQL\n- AWS\n- Redux\n"
+  },
+  {
+    "title": "Machine Learning Engineer",
+    "department": "Data Science",
+    "location": "Bangalore / Hyderabad",
+    "experience_required": "3-6 years",
+    "description": "Job Title: Machine Learning Engineer\nDepartment: Data Science\nLocation: Bangalore / Hyderabad\nExperience: 3-6 years\n\nAbout the role\nHelp us ship ML models that personalise search and recommendations for millions of users.\n\nResponsibilities\n- Train and evaluate NLP and recommendation models\n- Deploy models with MLOps best practice\n- Monitor drift and performance\n- Partner with product teams\n\nRequirements\n- Python and SQL\n- Machine Learning with PyTorch or TensorFlow\n- NLP\n- MLOps and model deployment\n\nNice to have\n- AWS\n- Spark\n- Docker\n- Computer Vision\n"
+  },
+  {
+    "title": "Data Analyst - Power BI and SQL",
+    "department": "Analytics",
+    "location": "Mumbai / Pune",
+    "experience_required": "2-5 years",
+    "description": "Job Title: Data Analyst - Power BI and SQL\nDepartment: Analytics\nLocation: Mumbai / Pune\nExperience: 2-5 years\n\nAbout the role\nOur analytics team turns business data into decisions for operations and finance leaders.\n\nResponsibilities\n- Build Power BI and Tableau dashboards\n- Write SQL to answer business questions\n- Automate recurring reports\n- Define KPIs with stakeholders\n\nRequirements\n- SQL\n- Power BI or Tableau\n- Excel\n- Statistics and data visualization\n\nNice to have\n- Python and Pandas\n- A/B testing\n- Looker\n"
+  },
+  {
+    "title": "Senior Data Engineer",
+    "department": "Data Platform",
+    "location": "Bangalore / Remote",
+    "experience_required": "5-9 years",
+    "description": "Job Title: Senior Data Engineer\nDepartment: Data Platform\nLocation: Bangalore / Remote\nExperience: 5-9 years\n\nAbout the role\nOwn the data platform that serves analytics and ML across the company.\n\nResponsibilities\n- Design batch and streaming pipelines\n- Model data in the warehouse\n- Orchestrate jobs in Airflow\n- Improve data quality and cost\n\nRequirements\n- Python and SQL\n- Spark and Airflow\n- Kafka\n- Snowflake or Redshift on AWS\n- ETL and data modeling\n\nNice to have\n- Databricks\n- dbt\n- Terraform\n"
+  },
+  {
+    "title": "DevOps / SRE Engineer",
+    "department": "Infrastructure",
+    "location": "Hyderabad / Remote",
+    "experience_required": "4-8 years",
+    "description": "Job Title: DevOps / SRE Engineer\nDepartment: Infrastructure\nLocation: Hyderabad / Remote\nExperience: 4-8 years\n\nAbout the role\nKeep our production platform fast, secure and cost-efficient.\n\nResponsibilities\n- Operate Kubernetes clusters\n- Provision infrastructure with Terraform\n- Build CI/CD pipelines\n- Lead incident response and monitoring\n\nRequirements\n- Kubernetes and Docker\n- Terraform\n- AWS\n- Jenkins and CI/CD\n- Prometheus and Grafana\n- Linux\n\nNice to have\n- Ansible\n- Helm\n- ArgoCD\n- Python\n"
+  },
+  {
+    "title": "QA Automation Engineer",
+    "department": "Quality",
+    "location": "Pune / Chennai",
+    "experience_required": "3-6 years",
+    "description": "Job Title: QA Automation Engineer\nDepartment: Quality\nLocation: Pune / Chennai\nExperience: 3-6 years\n\nAbout the role\nBuild the automation that gives our teams confidence to release every day.\n\nResponsibilities\n- Create Selenium and Cypress test suites\n- Automate API tests\n- Run performance tests\n- Integrate tests into Jenkins pipelines\n\nRequirements\n- Selenium and Cypress\n- TestNG\n- API testing with Postman\n- Java or Python\n- Jenkins\n\nNice to have\n- JMeter\n- Cucumber and BDD\n- Appium\n"
+  },
+  {
+    "title": "Mobile App Developer (Android / iOS / Flutter)",
+    "department": "Engineering",
+    "location": "Bangalore / Mumbai",
+    "experience_required": "2-5 years",
+    "description": "Job Title: Mobile App Developer (Android / iOS / Flutter)\nDepartment: Engineering\nLocation: Bangalore / Mumbai\nExperience: 2-5 years\n\nAbout the role\nBuild the mobile apps our customers use every day.\n\nResponsibilities\n- Develop Android and iOS features\n- Maintain a Flutter codebase\n- Improve app performance and stability\n- Release to the Play Store and App Store\n\nRequirements\n- Android with Kotlin\n- iOS with Swift\n- Flutter or React Native\n- Firebase and REST APIs\n\nNice to have\n- CI/CD\n- GraphQL\n"
+  },
+  {
+    "title": "Product Manager - B2B SaaS",
+    "department": "Product",
+    "location": "Bangalore / Remote",
+    "experience_required": "5-9 years",
+    "description": "Job Title: Product Manager - B2B SaaS\nDepartment: Product\nLocation: Bangalore / Remote\nExperience: 5-9 years\n\nAbout the role\nLead the roadmap for a core product used by thousands of businesses.\n\nResponsibilities\n- Own the product roadmap and OKRs\n- Write user stories and prioritise the backlog\n- Run experiments and analyse product data\n- Align stakeholders and drive go-to-market\n\nRequirements\n- Product Management and roadmapping\n- Agile, Jira and user stories\n- SQL and product analytics\n- A/B testing\n- Stakeholder management\n\nNice to have\n- Go-to-market\n- Market research\n- Figma\n"
+  },
+  {
+    "title": "UI/UX Designer",
+    "department": "Design",
+    "location": "Bangalore / Hybrid",
+    "experience_required": "3-6 years",
+    "description": "Job Title: UI/UX Designer\nDepartment: Design\nLocation: Bangalore / Hybrid\nExperience: 3-6 years\n\nAbout the role\nShape simple, beautiful experiences for our consumer and business apps.\n\nResponsibilities\n- Design flows and prototypes in Figma\n- Maintain the design system\n- Run user research and usability tests\n- Partner with engineers on accessible UI\n\nRequirements\n- Figma\n- Prototyping and wireframing\n- Design systems\n- User research and usability testing\n- Accessibility\n\nNice to have\n- Adobe XD\n- Design thinking\n- HTML/CSS\n"
+  },
+  {
+    "title": "Talent Acquisition Specialist",
+    "department": "Human Resources",
+    "location": "Gurgaon / Pune",
+    "experience_required": "2-6 years",
+    "description": "Job Title: Talent Acquisition Specialist\nDepartment: Human Resources\nLocation: Gurgaon / Pune\nExperience: 2-6 years\n\nAbout the role\nHelp us hire great people across technology and business roles.\n\nResponsibilities\n- Run end-to-end recruitment for assigned roles\n- Source candidates on LinkedIn and Naukri\n- Coordinate interview scheduling\n- Manage onboarding and employee engagement activities\n\nRequirements\n- Recruitment and talent acquisition\n- Candidate sourcing\n- ATS and HRIS tools\n- Onboarding\n- Interview scheduling\n\nNice to have\n- Campus hiring\n- Employee engagement\n- Labour laws\n"
+  },
+  {
+    "title": "Digital Marketing Manager",
+    "department": "Marketing",
+    "location": "Mumbai / Remote",
+    "experience_required": "4-8 years",
+    "description": "Job Title: Digital Marketing Manager\nDepartment: Marketing\nLocation: Mumbai / Remote\nExperience: 4-8 years\n\nAbout the role\nOwn growth across organic, paid and lifecycle channels for a fast-growing consumer brand.\n\nResponsibilities\n- Plan and run SEO and content programmes\n- Manage Google Ads and Meta Ads budgets\n- Build email and social campaigns\n- Report on funnel performance in Google Analytics\n\nRequirements\n- SEO and SEM\n- Google Ads\n- Content marketing\n- Social media marketing\n- Google Analytics\n- Email marketing\n\nNice to have\n- Marketing automation\n- HubSpot\n- Copywriting\n"
+  },
+  {
+    "title": "Senior Accountant - GST and Finance",
+    "department": "Finance",
+    "location": "Mumbai / Ahmedabad",
+    "experience_required": "4-8 years",
+    "description": "Job Title: Senior Accountant - GST and Finance\nDepartment: Finance\nLocation: Mumbai / Ahmedabad\nExperience: 4-8 years\n\nAbout the role\nRun day-to-day accounting and statutory compliance for a growing company.\n\nResponsibilities\n- Manage accounts payable and bank reconciliation\n- File GST and TDS returns on time\n- Prepare monthly MIS and financial reports\n- Support audits and the month-end close\n\nRequirements\n- Accounts payable\n- GST and TDS\n- Tally\n- Bank reconciliation\n- Financial reporting and MIS\n- Excel\n\nNice to have\n- SAP FICO\n- Auditing\n- Budgeting\n"
+  },
+  {
+    "title": "Business Development Manager - SaaS Sales",
+    "department": "Sales",
+    "location": "Bangalore / Delhi NCR",
+    "experience_required": "3-7 years",
+    "description": "Job Title: Business Development Manager - SaaS Sales\nDepartment: Sales\nLocation: Bangalore / Delhi NCR\nExperience: 3-7 years\n\nAbout the role\nWin new enterprise customers for our cloud product.\n\nResponsibilities\n- Generate leads and build pipeline\n- Run discovery calls, demos and negotiations\n- Manage accounts in Salesforce\n- Hit quarterly revenue targets\n\nRequirements\n- Business development and B2B sales\n- Lead generation\n- CRM and Salesforce\n- Negotiation\n- Pipeline management\n- Account management\n\nNice to have\n- SaaS sales\n- Proposal writing\n- Cold calling\n"
+  },
+  {
+    "title": "Customer Support Team Lead",
+    "department": "Operations",
+    "location": "Chennai / Remote",
+    "experience_required": "3-7 years",
+    "description": "Job Title: Customer Support Team Lead\nDepartment: Operations\nLocation: Chennai / Remote\nExperience: 3-7 years\n\nAbout the role\nLead a team that delivers outstanding support to our customers across email, chat and phone.\n\nResponsibilities\n- Manage daily support operations and SLAs\n- Coach agents and track CSAT\n- Handle escalations\n- Improve processes and the knowledge base\n\nRequirements\n- Customer support\n- Zendesk or Freshdesk\n- SLA management\n- Escalation management\n- CSAT\n- Team management\n\nNice to have\n- Process improvement\n- Six Sigma\n- MS Office\n"
+  }
+]
